@@ -56,7 +56,7 @@ data-driven decision making in finance, business, and technology.
 
 ---
 
-# ⭐ Featured Projects
+#  Featured Projects
 
 🔹 **Machine Learning Classification**  
 Predicting telecom customer mobile plan upgrades using supervised learning models.
@@ -88,7 +88,7 @@ https://www.linkedin.com/in/jeharper25/
 
 ---
 
-# 🛠 Languages & Tools
+# Languages & Tools
 
 <p align="center">
 
