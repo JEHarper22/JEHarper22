@@ -1,7 +1,7 @@
 <h1 align="center">Javon E. Harper</h1>
 
 <h3 align="center">
-Quantitative Data Scientist | Python • SQL • Machine Learning • Data Engineering
+Quantitative Data Scientist | Python • SQL • Machine Learning | Data Engineering
 </h3>
 
 <p align="center">
