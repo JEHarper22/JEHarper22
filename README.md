@@ -36,7 +36,7 @@ data-driven decision making in finance, business, and technology.
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 - Data Governance  
 - Machine Learning & Predictive Modeling  
@@ -47,7 +47,7 @@ data-driven decision making in finance, business, and technology.
 
 ---
 
-# 🧠 Currently Learning
+# Currently Learning
 
 - Advanced Machine Learning  
 - Quantitative Finance Modeling  
@@ -75,13 +75,13 @@ Scripts and systems designed to automate data workflows and analysis.
 
 ---
 
-# 🌐 Portfolio
+#  Portfolio
 
 https://jeharperportfolio.com
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 LinkedIn  
 https://www.linkedin.com/in/jeharper25/
