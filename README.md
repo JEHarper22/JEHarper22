@@ -9,7 +9,7 @@ Quantitative Data Scientist | Python • SQL • Machine Learning • Data Engin
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/JEHarper22/JEHarper22/main/OIP.webp" width="180">
+<img src="https://raw.githubusercontent.com/JEHarper22/JEHarper22/main/OIP.webp" width="400">
 </p>
 
 <p align="center">
